@@ -17,18 +17,13 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for managing a 
 - MongoDB
 - npm 
 
-
-- **Super Admin**
-  - Email: superadmin@library.com
-  - Password: superadmin123
-
 - **Admin**
-  - Email: admin@library.com
-  - Password: admin123
+  - Email: john@gmail.com
+  - Password: 123456
 
 - **Student**
-  - Email: john@example.com
-  - Password: john123
+  - Email:nitin@gmail.com
+  - Password: 123456
 
 
 
